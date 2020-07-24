@@ -1,3 +1,3 @@
 # GitTest
 
-TestCase for Learning Git ，20200723
+替换的新文件
